@@ -1,0 +1,28 @@
+.Container{
+    background-color: cadetblue;
+}
+.navbar-size {
+    background-color: darkcyan;
+    margin: 0 auto;
+    }
+.userImageSize {
+    height: 56px;
+    margin: 4px 0;
+    }
+.linkedin {
+    padding: 30%;
+    padding-bottom: 40%
+}
+.mainContainer{
+    color:darkslategrey;
+    background-color: cadetblue;
+    height: calc(100vh - 64px);
+}
+.materialboxed-image{
+margin: 0 auto;
+height: 300px;
+}
+.click-me-button{
+    background-color: darkcyan;
+    margin-top: 50px;
+}

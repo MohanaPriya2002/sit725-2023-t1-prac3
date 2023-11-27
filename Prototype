@@ -1,0 +1,14 @@
+1- html page
+2- create a server (server.js)
+
+- npm init
+- npm install express
+  npm start
+
+(You can also do npm install nodemon and then nodemon start)
+
+3- Build some APIs on the Server, i.e., Adding some Number, etc.
+
+localhost:3000/addTwoNumbers?number1=25&number2=74
+
+4- GIT Operations
